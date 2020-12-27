@@ -1,1 +1,1 @@
-watchdog==1.0.2
+pyinotify==0.9.6
